@@ -1,0 +1,4 @@
+Bulk loading from S3 - https://docs.snowflake.com/en/user-guide/data-load-s3.html
+Unloading into S3 - https://docs.snowflake.com/en/user-guide/data-unload-s3.html
+Loading continuously - https://docs.snowflake.com/en/user-guide/data-load-snowpipe.html
+Kafka Connector - https://docs.snowflake.com/en/user-guide/kafka-connector.html
